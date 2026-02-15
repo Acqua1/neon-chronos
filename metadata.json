@@ -1,0 +1,7 @@
+{
+  "name": "Neon chronos",
+  "description": "This project explores the relationship between identity, performance and image through the use of shadow and temporal delay.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
